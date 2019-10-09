@@ -1,10 +1,10 @@
 
----
+@@ ---
 layout: page
 title: 
 permalink: /about/
----
-  
+--- @@
+
 Information Systems Developer @ <a href="www.educoreservices.com">Educore Services</a>  
 (Python, R, SQL, Other stuff)
 
@@ -13,7 +13,7 @@ Information Systems Developer @ <a href="www.educoreservices.com">Educore Servic
 
 
 ## More Information
-<a href="https://www.nmbazima.github.io">Github Profile</a>  
+<a href="https://nmbazima.github.io">Github Profile</a>  
 
 ## Contact me
 

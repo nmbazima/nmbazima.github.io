@@ -4,7 +4,7 @@ title:
 permalink: /about/
 ---
 
-Information Systems Developer @ <a href="www.educoreservices.com">Educore Services</a>  
+Information Systems Developer @ <a href="www.educoreservices.com">EducoreServices</a>  
 (Python, R, SQL, Other stuff)
 
 * Data Science from HarvardX University.

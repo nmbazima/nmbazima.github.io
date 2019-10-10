@@ -1,10 +1,8 @@
-#
-
 ---
 layout: page
 title: 
 permalink: /about/
---- @@
+---
 
 Information Systems Developer @ <a href="www.educoreservices.com">Educore Services</a>  
 (Python, R, SQL, Other stuff)

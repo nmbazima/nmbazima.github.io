@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What is DataOps"
+title: 2021-01-25-What-is-DataOps
 excerpt: As DataOps continues to gain exposure, 
 people are encountering the term for the first time. 
 Below is our list of the most common questions that we hear about DataOps.

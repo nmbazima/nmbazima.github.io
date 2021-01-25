@@ -1,3 +1,4 @@
+---
 layout: post
 title: "What is DataOps"
 excerpt: As DataOps continues to gain exposure, 
@@ -7,7 +8,7 @@ date: 2021-01-25 15:30:23 -0000
 author: nmbazima
 categories: Data Engineering DataOps
 tags: [sql, coding, dataops]
-
+---
 
 DataKitchen
 

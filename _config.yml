@@ -3,11 +3,7 @@
 # This file contains configuration flags to customize your site
 #
 
-header_pages:
-  - index.md
-  - about.md
-
-style: dark # dark (default), light or hacker
+style: hacker # dark (default), light or hacker
 listen_for_clients_preferred_style: true # false (default) or true
 
 # Name of your site (displayed in the header)
@@ -96,5 +92,5 @@ exclude:
   - CNAME
 
 # theme: jekyll-theme-hacker
-theme: b2a3e8/jekyll-theme-console
+remote_theme: b2a3e8/jekyll-theme-console
 

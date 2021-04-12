@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Exam-DA-100
-permalink: /:Exam-DA-100
 ---
 
 # Exam-DA-100-ADWM-Power-BI

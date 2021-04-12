@@ -5,6 +5,7 @@ title: "Fractions"
 author: nmbazima
 categories: Poetry
 tags: [Tenpencils]
+permalinks: /_tenpencils/
 ---
 ## Fractions
 

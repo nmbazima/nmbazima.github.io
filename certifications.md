@@ -3,15 +3,7 @@ layout: page
 title: Certifications
 ---
 
-![Developer](/assets/Badge red flag with logo.png)
-
 ![AICert](/assets/AICertificate.PNG)
-
-![Cloud](/assets/Cloud_Skills_Champion_Badge.png)
-
-![60DayOfUdacity](/assets/60DaysOfUdacity.PNG)
-
-![Scholarship](/assets/Bertelsmann+Badge.jpg)
 
 ![DataFluency](/assets/DataFluency.PNG)
 

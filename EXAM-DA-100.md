@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Exam-DA-100
-permalink: http://www.mbazima.me/exam-da-100
+permalink: http://www.mbazima.me/Exam-DA-100
 ---
 
 # Exam-DA-100-ADWM-Power-BI

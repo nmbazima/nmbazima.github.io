@@ -11,5 +11,7 @@ title: Badges
 
 ![Scholarship](/assets/Bertelsmann+Badge.jpg)
 
+![Trophies](/assets/Trophies.PNG)
+
 
 

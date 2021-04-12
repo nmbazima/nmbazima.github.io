@@ -5,7 +5,7 @@ title: "Top 3 Trends in Data Infrastructure for 2021"
 author: joyce chiu
 categories: Data Engineering DataOps
 tags: [sql, coding, dataops]
-permalinks: http://nmbazima.github.io/guardianone/
+permalinks: 
 ---
 
 # Get your data engineering function ahead of the curve with orchestration platforms, data discovery engines, and data lakehouses.

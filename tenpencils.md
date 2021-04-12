@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Tenpencils
+title: Poetry
 ---
-
 # Three Thousand and Odd things explained
 ---

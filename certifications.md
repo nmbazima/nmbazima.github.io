@@ -4,5 +4,3 @@ title: Certifications
 ---
 
 
-#### Blog Posts
-

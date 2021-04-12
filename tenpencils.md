@@ -1,8 +1,7 @@
 ---
 layout: page
-title: blog
+title: Tenpencils
 ---
 
-
-#### Blog Posts
-
+# Three Thousand and Odd things explained
+---

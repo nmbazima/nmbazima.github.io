@@ -1,8 +1,8 @@
 ---
 layout: page
-title: blog
+title: Poetry
 ---
 
 
-#### Blog Posts
+# Poetry Corner
 

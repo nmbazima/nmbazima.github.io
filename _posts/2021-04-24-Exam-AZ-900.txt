@@ -1,0 +1,16 @@
+---
+layout: post
+comments: true
+title: "The journey to Microsoft Certified: Azure Fundamentals"
+author: nmbazima
+categories: certifications
+tags: [fundamentals, certification, microsoft]
+---
+
+## Path to the Exam AZ-900: Microsoft Azure Fundamentals.
+
+![Journey](/assets/Microsoft Azure Fundamentals.PNG)
+
+I am preparing for this exam to prove knowledge of cloud concepts, Azure services, Azure workloads, security and privacy in Azure, as well as Azure pricing and support. Candidates should be familiar with the general technology concepts, including concepts of networking, storage, compute, application support, and application development.
+
+![Fundamentals](/assets/microsoft-certified-fundamentals-badge.svg)

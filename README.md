@@ -1,3 +1,7 @@
+# Newton Mbazima
+My personal website www.mbazima.me. Where I add information about my experience, interests and journeys.
+
+
 ## particles.js
 
 ### A lightweight JavaScript library for creating particles.

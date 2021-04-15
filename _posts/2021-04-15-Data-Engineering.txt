@@ -1,0 +1,9 @@
+# Microsoft Learn-a-thon: Data Engineering Challenge
+
+*Learn how to design and implement full stack of data services on Azure.*
+
+![CloudSkills](/assets/Microsoft Ignite Challenge.jpg)
+
+[Microsoft Learn-a-thon: Data Engineering](https://docs.microsoft.com/en-us/users/cloudskillschallenge/collections/8pm3f2ejmkye?WT.mc_id=cloudskillschallenge_07fc764d-5604-45f4-870e-70ecb3cc7f56)
+
+

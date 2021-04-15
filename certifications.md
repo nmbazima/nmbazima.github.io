@@ -17,6 +17,10 @@ title: Certifications
 
 ![MIE](/assets/MIE.PNG)
 
+![BestGroupMotivator](/assets/Educore Academy - Best Group Motivator.PNG)
+
+![Trainer](/assets/Educore Academy - Trainer.PNG)
+
 ![DNIIT6](/assets/Transcript Qtr 7 SE Part 3.jpg)
 
 ![DNIIT5](/assets/Transcript Qtr 6 SE Part 2.jpg)

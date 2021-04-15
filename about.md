@@ -7,3 +7,6 @@ title: About
 
 ## More Information
 <a href="https://www.linkedin.com/in/nmbazima/">Linkedin Profile</a> 
+
+★★★★★
+☆☆☆☆☆

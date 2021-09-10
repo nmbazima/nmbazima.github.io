@@ -167,4 +167,18 @@ The AI Essentials Framework is a specific grouping of activities to work through
 
 In this lesson, we will learn the AI Essentials Framework from experts, see an example in practice, and gather the resources you need to practice on your own project.
 
+### Basics of Artificial Intelligence
+
+
+#### ![What is artificial intelligence?](https://www.ibm.com/design/ai/basics/ai#what-is-artificial-intelligence)
+
+Any system capable of simulating human intelligence and thought processes is said to have “Artificial Intelligence” (AI). 
+
+While these aspirational systems — called artificial general intelligence — are far off, there’s a lot of deserved buzz around artificial narrow intelligence, or weak AI. Narrow AI focuses on one, narrow task of human intelligence, and within it, there are two branches: rule-based AI and example based AI. The former involves giving the machine rules to follow while the latter giving it examples to learn from. 
+
+The safest working definition is the study of making systems capable of simulating human intelligence and thought processes, which comes in many forms.
+
+#### ![Why use AI?](https://www.ibm.com/design/ai/basics/ai#:~:text=explanation%20of%20AI.-,Why%20use%20AI%3F,-AI%20can%20achieve)
+
+AI can achieve higher quality outcomes faster than humanly possible. 
 

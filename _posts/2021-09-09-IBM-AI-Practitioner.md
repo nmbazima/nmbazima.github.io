@@ -182,3 +182,5 @@ The safest working definition is the study of making systems capable of simulati
 
 AI can achieve higher quality outcomes faster than humanly possible. 
 
+Today, AI is most often used to recognize patterns, make predictions, and provide insights previously out of reach due to the sheer amount of available data. It’s able to do this because, unlike traditional computer technologies, AI is able to learn from examples as opposed to being explicitly programmed to execute specific instructions.
+

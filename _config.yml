@@ -1,43 +1,66 @@
-# Dependencies
-markdown:            kramdown
-highlighter:         rouge
+# Jekyll configuration
+#markdown: redcarpet
+#highlighter: pygments
+markdown: kramdown
+highlighter: rouge
+paginate: 5
+language: 'en-uk'
 
-# Gems (for Jekyll 3.0)
-gems: [jekyll-paginate]
+# Website info
+name: 'Finding The Way Home'
+description: "A beautiful narrative written with the world's most elegant publishing platform. The story begins here."
+
+short_url: 'jekyllt.github.io/jasper/'
+google_analytics: UA-69281367-1
+disqus: username
+# edit baseurl to simply '/' if using as your personal page (instead of a project page)
+baseurl: /jasper/
 
 # Permalinks
-#
-# Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           pretty
+permalink: /:title
+# permalink: /author/:username
+# permalink: /tag/:tag
 
-# Setup
-title:               Newton
-tagline:             'A Hacker like jekyll theme'
-description:         'oonlab is crafted with <3 by ariestiyansyah.'
-url:                 http://mbazima.me
-baseurl:             /
-paginate:            7
+# gems and other configs
+plugins: [jekyll-paginate]
 
-# About/contact
-author:
-  name:              Newton Mbazima
-  url:               https://mbazima.me
-  email:             nmbazima@gmail.com
+# Additional settings available on the front-matter
+# Site logo in the index.html (as in demo.ghost.io)
+# Author's page cover in _layouts/author.html
+# The same for page.html and tag.html layouts
+# Post's page cover as a per-post basis _posts/...
+# Disqus comments as a per-post basis
+# ...
 
-# Custom vars
-version:             2.0
 
-# Social Media
-github:				http://github.com/nmbazima
-twitter:			
-disqus:             testnmbazima
+# Settings for builing master branch with travis-ci
+# with jekyll-travis
 
-# Theme Author (Please don't edit this line cause of MIT LICENSE rules)
-theme:
-  creator:			Rizky Ariestiyansyah
-  codename:			Naringu
-  link:             https://github.com/ariestiyansyah/naringu
+# Settings for deploy rake task
+# Username and repo of Github repo, e.g.
+# https://github.com/USERNAME/REPO.git
+# username defaults to ENV['GIT_NAME'] used by Travis
+# repo defaults to USERNAME.github.io
+# Branch defaults to "source" for USERNAME.github.io
+# or "master" otherwise
+safe: false
+lsi: false
+username: jekyllt
+repo: jasper
+branch: master
+relative_source: ../jasper/
+destination: ../jasper-pages/
+production_url:  https://jekyllt.github.io/jasper/
+source_url:  https://github.com/jekyllt/jasper/
 
-# Custom variables
-owner : "NMbazima"
-year : "2020"
+exclude:
+  - README.md
+  - Rakefile
+  - Gemfile
+  - Gemfile.lock
+  - changelog.md
+  - "*.Rmd"
+  - vendor
+  - .travis.yml
+  - node_modules
+  - .git

@@ -1,0 +1,16 @@
+---
+layout: post
+comments: true
+title: "Azure Developer League: Data Science and AI Challenge"
+author: nmbazima
+categories: certifications
+tags: [challenge, certification, microsoft]
+---
+
+# Azure Developer League: Data Science and AI Challenge
+
+![CloudSkills](/assets/Badge red flag with logo.png)
+
+*Learn the basics of data science and how to design and implement machine learning models in Azure.*
+
+[Azure Developer League: Data Science and AI](https://docs.microsoft.com/en-us/learn/challenges?id=d870c146-bf03-4869-a83b-42aacd2e534e)

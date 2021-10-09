@@ -1,31 +1,42 @@
-title: Newton Mbazima
-description: "Blog"
+# Dependencies
+markdown:            kramdown
+highlighter:         rouge
+
+# Gems (for Jekyll 3.0)
+gems: [jekyll-paginate]
+
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+
+# Setup
+title:               Newton
+tagline:             'A Hacker like jekyll theme'
+description:         'oonlab is crafted with <3 by ariestiyansyah.'
+url:                 http://mbazima.me
+baseurl:             /
+paginate:            7
+
+# About/contact
 author:
-  name: "NMbazima"
-  email: "nmbazima@gmail.com"
-  url: "https://www.mbazima.me"
+  name:              Newton Mbazima
+  url:               https://mbazima.me
+  email:             nmbazima@gmail.com
 
-baseurl: /
+# Custom vars
+version:             2.0
 
-source: .
-destination: ./_site
-permalink: /:title
-paginate: 3
-paginate_path: /page/:num/
+# Social Media
+github:				http://github.com/nmbazima
+twitter:			
+disqus:             testnmbazima
 
-defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-
-future: true
-plugins:
-  - jekyll-seo-tag
-  - jekyll-paginate
-  - jekyll-sitemap
+# Theme Author (Please don't edit this line cause of MIT LICENSE rules)
+theme:
+  creator:			Rizky Ariestiyansyah
+  codename:			Naringu
+  link:             https://github.com/ariestiyansyah/naringu
 
 # Custom variables
 owner : "NMbazima"

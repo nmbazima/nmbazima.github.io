@@ -1,10 +1,16 @@
 ---
 layout: post
+cover: 'assets/Human_Machine.png'
+navigation: True
 comments: true
 title: "The journey to IBM AI Practitioner"
+date: 2021-09-09 10:18:00
+tags: fundamentals, certification, IBM
+subclass: 'post tag-training'
+logo: 'assets/images/ghost.png'
 author: nmbazima
 categories: certifications
-tags: [fundamentals, certification, microsoft]
+
 ---
 
 # Path to the IBM AI Practitioner.

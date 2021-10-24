@@ -4,7 +4,7 @@ comments: true
 title: "Fractions"
 author: nmbazima
 categories: Poetry
-tags: [Tenpencils]
+tags: Tenpencils
 ---
 ## Fractions
 

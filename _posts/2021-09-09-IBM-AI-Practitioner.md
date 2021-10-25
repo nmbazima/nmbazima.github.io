@@ -1,6 +1,6 @@
 ---
 layout: post
-cover: 'assets/Human_Machine.png'
+cover: 'assets/cover-certifications.jpg'
 navigation: True
 comments: true
 title: "The journey to IBM AI Practitioner"

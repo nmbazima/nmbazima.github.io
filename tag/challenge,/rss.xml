@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title>nmbazima.github.io</title>
+   
+   <link>http://localhost:4000</link>
+   <description>Three thousand and odd things. The story begins here.</description>
+   <language>en-uk</language>
+   <managingEditor> </managingEditor>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>Microsoft Learn-A-thon Data Engineering</title>
+	  <link>//Data-Engineering</link>
+	  <author></author>
+	  <pubDate>2021-04-15T00:00:00+02:00</pubDate>
+	  <guid>//Data-Engineering</guid>
+	  <description><![CDATA[
+	     <h1 id="microsoft-learn-a-thon-data-engineering-challenge">Microsoft Learn-a-thon: Data Engineering Challenge</h1>
+
+<p><img src="/assets/Microsoft learn-A-thon-Data-Engineering.png" alt="CloudSkills" /></p>
+
+<p><em>Learn how to design and implement full stack of data services on Azure.</em></p>
+
+<p><a href="https://docs.microsoft.com/en-us/users/cloudskillschallenge/collections/8pm3f2ejmkye?WT.mc_id=cloudskillschallenge_07fc764d-5604-45f4-870e-70ecb3cc7f56">Microsoft Learn-a-thon: Data Engineering</a></p>
+
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>

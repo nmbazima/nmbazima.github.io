@@ -3,7 +3,7 @@ layout: post
 cover: 'assets/cover-poetry.jpg'
 navigation: True
 comments: true
-title: "Participants"
+title: Participants
 date: 1997-09-06
 tags: poetry, guardianone
 subclass: 'post tag-poetry'

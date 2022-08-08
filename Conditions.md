@@ -3,7 +3,7 @@ layout: post
 cover: 'assets/cover-poetry.jpg'
 navigation: True
 comments: true
-title: "Conditions"
+title: Conditions
 date: 1997-09-04
 tags: poetry, tenpencils, guardianone
 subclass: 'post tag-poetry'

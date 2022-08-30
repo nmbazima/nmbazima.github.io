@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title>nmbazima.github.io</title>
+   
+   <link>http://localhost:4000</link>
+   <description>Three thousand and odd things. The story begins here.</description>
+   <language>en-uk</language>
+   <managingEditor> </managingEditor>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>Fractions</title>
+	  <link>//Fractions</link>
+	  <author></author>
+	  <pubDate>2006-06-16T00:00:00+02:00</pubDate>
+	  <guid>//Fractions</guid>
+	  <description><![CDATA[
+	     <h2 id="fractions">Fractions</h2>
+
+<p>“Most positions relate to a fashioned state, whilst many complain how such events did not propell the gradual process. Yet the conditions could not remain as they had been, with little else to comfort the rest - so the dwelling continued as they had not anticipated”.</p>
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>

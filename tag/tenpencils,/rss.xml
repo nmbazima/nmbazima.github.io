@@ -3,24 +3,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
    
-      <title>nmbazima.github.io</title>
+      <title></title>
    
-   <link>http://localhost:4000</link>
-   <description>Three thousand and odd things. The story begins here.</description>
-   <language>en-uk</language>
-   <managingEditor> </managingEditor>
+   <link></link>
+   <description>Personal Website</description>
+   <language></language>
+   <managingEditor> {"name"=>"NMbazima", "email"=>"nmbazima@gmail.com", "url"=>"https://nmbazima.github.io"}</managingEditor>
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
-	  <title>Fractions</title>
-	  <link>//Fractions</link>
-	  <author></author>
-	  <pubDate>2006-06-16T00:00:00+02:00</pubDate>
-	  <guid>//Fractions</guid>
+	  <title>Strayed</title>
+	  <link>//Strayed</link>
+	  <author>{"name"=>"NMbazima", "email"=>"nmbazima@gmail.com", "url"=>"https://nmbazima.github.io"}</author>
+	  <pubDate>1999-02-13T00:00:00+02:00</pubDate>
+	  <guid>//Strayed</guid>
 	  <description><![CDATA[
-	     <h2 id="fractions">Fractions</h2>
+	     <p>Once strayed and found, but did go too far out, and has just remained what was, what was always. And stand true in what is done, that will continue to succumb, the societies have no effect, for their purpose is of no significance. What is repeated will give up, as others knew where to come, for the correct presentation that would like when returning, that most times is created, and questions ended with true facts, and still have to be far ahead, as each moment is appreciated, and each has its limit, discovering what is around, giving different pleasures to others, that others also once cheerished, and had been shown what was trying to get at. Yes time has been true, and changes have been pursued, as one has kept in mind the proper place in which is placed, and can work towards the height of it, still as one.</p>
 
-<p>“Most positions relate to a fashioned state, whilst many complain how such events did not propell the gradual process. Yet the conditions could not remain as they had been, with little else to comfort the rest - so the dwelling continued as they had not anticipated”.</p>
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Conditions</title>
+	  <link>//Conditions</link>
+	  <author>{"name"=>"NMbazima", "email"=>"nmbazima@gmail.com", "url"=>"https://nmbazima.github.io"}</author>
+	  <pubDate>1997-09-04T00:00:00+02:00</pubDate>
+	  <guid>//Conditions</guid>
+	  <description><![CDATA[
+	     <p>Had to notice the results attained, those left through humble returns, ment more when got gifted amounts, whilst most persued though seemed to have a motive, thorough reflections bent upon their effects, others returned to distroy, even messages gave its half, no thoughts left where motivations occured, the dead claimed its own, certain passages formed its resolutions made, nor the parts which remained of little concern, asked simple things yet got no benefit, yes was to rearrange for improvements</p>
 
 	  ]]></description>
 	</item>

@@ -1,0 +1,942 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title>nmbazima.github.io</title>
+   
+   <link>http://localhost:4000</link>
+   <description>Three thousand and odd things. The story begins here.</description>
+   <language>en-uk</language>
+   <managingEditor> </managingEditor>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>The journey to IBM AI Practitioner</title>
+	  <link>//IBM-AI-Practitioner</link>
+	  <author></author>
+	  <pubDate>2021-09-09T12:18:00+02:00</pubDate>
+	  <guid>//IBM-AI-Practitioner</guid>
+	  <description><![CDATA[
+	     <h1 id="path-to-the-ibm-ai-practitioner">Path to the IBM AI Practitioner.</h1>
+
+<h2 id="ibm-design-for-ai">IBM Design for AI</h2>
+
+<h3 id="fundamentals">Fundamentals</h3>
+
+<p>Artificial intelligence (AI) is a mystery and a wonder. It can help us solve humanity’s most difficult problems. AI is also vastly misunderstood by most people. For some, AI is a magical black box with the intelligence of a PhD. It knows all about everything, you just bring your problems and, voilá, your problems are solved. For others, fears of AI uprisings, loss of human control and Terminator-like scenarios cloud their capability to understand the present utility of cognitive computing.</p>
+
+<p><em>When we find ourselves in such unfamiliar territory, the best way to begin is by reminding ourselves of the true purpose for any innovation: to improve the quality of human life.</em></p>
+
+<p>Consider what we’ve learned living through the past few major technological innovations. The internet brought the world’s information to our beck and call and taught us that whatever we want, whenever we want it is always a finger-length away. Mobile tech enabled humanity to take that information with us at all times. Social computing and messaging changed the foundations of how we communicate with each other and language itself.</p>
+
+<h3><img src="https://www.ibm.com/design/ai/fundamentals/#ai-design-foundations" alt="AI Design Foundations" /></h3>
+
+<p>When designing for AI, the core intents are always rendered through the following lenses:</p>
+
+<h4 id="purpose">Purpose</h4>
+<p>The reason for the user to engage with the system. This will evolve as the user and system grow with each other.</p>
+
+<h4 id="value">Value</h4>
+<p>The augmented capabilities provided by the system that tangibly improves a user’s life.</p>
+
+<h4 id="trust">Trust</h4>
+<p>The willingness of a user to invest in an emotional bond with the system. This trust is predicated on security of the system’s data, the feeling of human control, and the quality of the results the system provides.</p>
+
+<h3 id="-1"><img src="https://www.ibm.com/design/ai/fundamentals/#characteristics-of-ai" alt="Characteristics of AI" /></h3>
+
+<p>AI is the simulation of human thought processes in a computerized model. AI involves self-learning systems that use data mining, pattern recognition and natural language processing to <em>mimic the way the human brain works.</em></p>
+
+<p>AI is characterized as having four main qualities:</p>
+
+<h4 id="understands">Understands</h4>
+<p>AI deeply understands its domain. It does this primarily through data – structured and unstructured, text-based or sensory – in context and meaning, at speed and volume.</p>
+
+<h4 id="reasons">Reasons</h4>
+<p>AI reasons towards specific goals. It has the ability to form hypotheses by making considered arguments and prioritized recommendations to help humans make better decisions.</p>
+
+<h4 id="learns">Learns</h4>
+<p>AI learns continuously through experience. In ingests and accumulates data and insight from every interaction at all times. It is <em>trained</em>, not <em>programmed</em>, by experts who enhance, scale and accelerate their expertise. Therefore, these systems get better over time.</p>
+
+<h4 id="interacts">Interacts</h4>
+<p>AI interacts naturally with people and systems. The interaction model of an AI is expected to flow unobtrusively while continuously building a sustainable relationship between itself and its users.</p>
+
+<h3 id="-2"><img src="https://www.ibm.com/design/ai/fundamentals/#design-factors-for-ai" alt="Design factors for AI" /></h3>
+
+<p>When it comes to designing for AI, our focus must be unwavering in providing experiences that put the user above all else.</p>
+
+<p>AI isn’t about data, it’s about insights. Data is the fuel for the car, insights are the destinations. This is what people care about.</p>
+
+<p><em>Solutions must primarily address user needs instead of being force-fit to accommodate technical capabilities or requirements.</em></p>
+
+<p>If a system has the capability to understand, reason, learn, and interact then it has the basis to form a relationship with a human.</p>
+
+<p>For AI to truly amplify humanity we must have and maintain meaningful relationships between humans and machines.</p>
+
+<p>The more we understand of ourselves, the better we will be able to teach machines how to help our users be better.</p>
+
+<h3 id="-3"><img src="https://www.ibm.com/design/ai/fundamentals/#relationship-development" alt="Relationship development" /></h3>
+
+<p>By taking a deeper look at the psychology behind relationships, we will probably find Knapp’s Relational Development Model.</p>
+
+<p><img src="/assets/Knapps_Model.PNG" alt="Knapp Model" /></p>
+
+<h4 id="initiating">Initiating</h4>
+<p>A collection of first impressions and snap judgements are made. Even if these are inaccurate, they significantly influence if each party wants to continue to the next stage.</p>
+
+<h4 id="experimenting">Experimenting</h4>
+<p>If there’s a degree of mutual interest, the parties start exploring, looking for commonalities of interests, acquaintances and value.</p>
+
+<h4 id="intensifying">Intensifying</h4>
+<p>With enough in common, we look for reciprocal sharing by the other person that signals their interest in deepening the relationship.</p>
+
+<h4 id="integrating">Integrating</h4>
+<p>AI interacts naturally with people and systems. The AI interaction model is expected to flow unobtrusively while continuously building a sustainable relationship between itself and its users.</p>
+
+<h4 id="bonding">Bonding</h4>
+<p>Both parties are fully partnered through trust and mutual appreciation. The relationship is indefinite and only to be broken through a formal notice.</p>
+
+<h3 id="-4"><img src="https://www.ibm.com/design/ai/fundamentals/#a-symbiotic-relationship" alt="A symbiotic relationship" /></h3>
+
+<p>By establishing tone and personality first, the system will have the means to endear itself to the user.</p>
+
+<p><img src="/assets/Human_Machine.png" alt="Human-Machines" /></p>
+
+<h3 id="-5"><img src="https://www.ibm.com/design/ai/fundamentals/#ai-ecosystem" alt="AI ecosystem" /></h3>
+
+<p><em>Artificial intelligences are probabilistic systems. This means that they are taught instead of being programmed. Since they are being taught, they must have context to be able to utilize their learnings. An AI needs this context to understand its place and provide value.</em></p>
+
+<p><img src="/assets/AI_Ecosystem.png" alt="AI Eccsystem" /></p>
+
+<h4 id="human">Human</h4>
+<p>The person whose needs are ultimately being served</p>
+
+<h4 id="machine">Machine</h4>
+<p>The system and its network of embodiments &amp; connections</p>
+
+<h4 id="context">Context</h4>
+<p>The holistic view of a complete human experience. Includes emotional, physical, system, and domain knowledge.</p>
+
+<h4 id="business">Business</h4>
+<p>The business needs and market goals to be served by the system</p>
+
+<h4 id="world">World</h4>
+<p>The external factors that will both inform and educate the system</p>
+
+<h3 id="-6"><img src="https://www.ibm.com/design/ai/fundamentals/#aihuman-context-model" alt="AI/human context model" /></h3>
+
+<p><img src="/assets/AI-Human.png" alt="AI-Human Context Model" /></p>
+
+<h4 id="intent">Intent</h4>
+<p>The goals, wants, needs, and values of users and businesses. Intent provides your solution’s purpose.</p>
+
+<h4 id="data-and-policy">Data and policy</h4>
+<p>All of the significant raw data a machine can collect from the user and the world and the policies that protect it.</p>
+
+<h4 id="understanding">Understanding</h4>
+<p>The process of putting incoming structured and unstructured data in context of your domain. Also known as machine learning.</p>
+
+<h4 id="reasoning">Reasoning</h4>
+<p>The system’s application of logic to decide on the best course(s) of action.</p>
+
+<h4 id="knowledge">Knowledge</h4>
+<p>This is what the system knows. This is all past data, insights, and learned attributes measured up against the overall intent of the system.</p>
+
+<h4 id="expression">Expression</h4>
+<p>How the system delivers its response based on the content of the message and its understanding of the user.</p>
+
+<h4 id="user-reaction">User reaction</h4>
+<p>This is the user’s genuine reaction to the system’s expression. Based on the quality of the system’s response.</p>
+
+<h4 id="learning">Learning</h4>
+<p>The user is continually teaching the system to improve through direct and indirect responses.</p>
+
+<h4 id="outcome">Outcome</h4>
+<p>The consequences of an actualized system used in the real world to solve real users’ real problems.</p>
+
+<h3 id="team-essentials">Team essentials</h3>
+
+<h3 id="-7"><img src="https://www.ibm.com/design/ai/team-essentials#apply-design-thinking-to-artificial-intelligence." alt="Apply design thinking to artificial intelligence" /></h3>
+
+<p>Teams need a diverse set of minds and skill sets to create something useful, intuitive, and responsible. Our course will give you the language, knowledge, and actionable methods to work alongside technical and non-technical members of your team to create AI solutions.</p>
+
+<p><img src="https://www.ibm.com/design/ai/team-essentials#ai-essentials-framework" alt="AI Essentials Framework" /></p>
+
+<p>The framework is a set of activities, tools, and principles that enable teams to design thoughtful, human-centered artificial intelligence solutions using Enterprise Design Thinking.</p>
+
+<p>The AI Essentials Framework is a specific grouping of activities to work through to align your team on strategy for an AI experience. There are five focal areas in the framework:</p>
+
+<ul>
+  <li>Intent: Align on the business and user intent(s) for your solution.</li>
+  <li>Data: Document the data you could use to make your idea a reality.</li>
+  <li>Understanding: Determine what you will need to teach your AI.</li>
+  <li>Reasoning: Bring your ideas down to earth.</li>
+  <li>Knowledge: Brainstorm the direct and indirect effects of your AI.</li>
+</ul>
+
+<p><img src="/assests/AI_EssentialsFramework.png" alt="AI Essentials Framework" /></p>
+
+<h3 id="-8"><img src="https://www.ibm.com/design/ai/team-essentials#apply-design-thinking-to-artificial-intelligence." alt="Apply design thinking to artificial intelligence" /></h3>
+
+<p>In this lesson, we will learn the AI Essentials Framework from experts, see an example in practice, and gather the resources you need to practice on your own project.</p>
+
+<h3 id="basics-of-artificial-intelligence">Basics of Artificial Intelligence</h3>
+
+<h4 id="-9"><img src="https://www.ibm.com/design/ai/basics/ai#what-is-artificial-intelligence" alt="What is artificial intelligence?" /></h4>
+
+<p>Any system capable of simulating human intelligence and thought processes is said to have “Artificial Intelligence” (AI).</p>
+
+<p>While these aspirational systems — called artificial general intelligence — are far off, there’s a lot of deserved buzz around artificial narrow intelligence, or weak AI. Narrow AI focuses on one, narrow task of human intelligence, and within it, there are two branches: rule-based AI and example based AI. The former involves giving the machine rules to follow while the latter giving it examples to learn from.</p>
+
+<p>The safest working definition is the study of making systems capable of simulating human intelligence and thought processes, which comes in many forms.</p>
+
+<h4 id="-10"><img src="https://www.ibm.com/design/ai/basics/ai#:~:text=explanation%20of%20AI.-,Why%20use%20AI%3F,-AI%20can%20achieve" alt="Why use AI?" /></h4>
+
+<p>AI can achieve higher quality outcomes faster than humanly possible.</p>
+
+<p>Today, AI is most often used to recognize patterns, make predictions, and provide insights previously out of reach due to the sheer amount of available data. It’s able to do this because, unlike traditional computer technologies, AI is able to learn from examples as opposed to being explicitly programmed to execute specific instructions.</p>
+
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>The journey to Microsoft Certified: Azure Data Fundamentals</title>
+	  <link>//Exam-DP-900</link>
+	  <author></author>
+	  <pubDate>2021-06-19T00:00:00+02:00</pubDate>
+	  <guid>//Exam-DP-900</guid>
+	  <description><![CDATA[
+	     <h2 id="path-to-the-exam-dp-900-microsoft-azure-data-fundamentals">Path to the Exam DP-900: Microsoft Azure Data Fundamentals.</h2>
+
+<p><img src="/assets/Microsoft-Power-Platform-Fundamentals.PNG" alt="Journey" /></p>
+
+<p>I am preparing for this exam to prove that I can describe the following: core data concepts; how to work with relational data on Azure; how to work with non-relational data on Azure; and an analytics workload on Azure..</p>
+
+<p><img src="/assets/microsoft-certified-fundamentals-badge.svg" alt="Fundamentals" /></p>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>The journey to Microsoft Certified: Azure AI Fundamentals</title>
+	  <link>//Exam-AI-900</link>
+	  <author></author>
+	  <pubDate>2021-05-29T00:00:00+02:00</pubDate>
+	  <guid>//Exam-AI-900</guid>
+	  <description><![CDATA[
+	     <h2 id="path-to-the-exam-ai-900-microsoft-azure-ai-fundamentals">Path to the Exam AI-900: Microsoft Azure AI Fundamentals.</h2>
+
+<p><img src="/assets/Microsoft Azure AI Fundamentals.PNG" alt="Journey" /></p>
+
+<p>I am preparing for this exam to demonstrate knowledge of common ML and AI workloads and how to implement them on Azure.</p>
+
+<p><img src="/assets/microsoft-certified-fundamentals-badge.svg" alt="Fundamentals" /></p>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>The journey to Microsoft Certified: Power Platform Fundamentals</title>
+	  <link>//Exam-PL-900</link>
+	  <author></author>
+	  <pubDate>2021-05-15T00:00:00+02:00</pubDate>
+	  <guid>//Exam-PL-900</guid>
+	  <description><![CDATA[
+	     <h2 id="path-to-the-exam-pl-900-microsoft-power-platform-fundamentals">Path to the Exam PL-900: Microsoft Power Platform Fundamentals.</h2>
+
+<p><img src="/assets/Microsoft-Power-Platform-Fundamentals.PNG" alt="Journey" /></p>
+
+<p>I am preparing for this exam to prove my understand the core capabilities of the Power Platform–from business value and core product capabilities to building a simple Power Apps canvas app, connecting data sources, automating basic business processes with Power Automate, creating a Power BI dashboard, and creating powerful chatbots with Power Virtual Agents.</p>
+
+<p><img src="/assets/microsoft-certified-fundamentals-badge.svg" alt="Fundamentals" /></p>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>The journey to Microsoft Certified: Azure Fundamentals</title>
+	  <link>//Exam-AZ-900</link>
+	  <author></author>
+	  <pubDate>2021-04-24T00:00:00+02:00</pubDate>
+	  <guid>//Exam-AZ-900</guid>
+	  <description><![CDATA[
+	     <h2 id="path-to-the-exam-az-900-microsoft-azure-fundamentals">Path to the Exam AZ-900: Microsoft Azure Fundamentals.</h2>
+
+<p><img src="/assets/Microsoft Azure Fundamentals.PNG" alt="Journey" /></p>
+
+<p>I am preparing for this exam to prove knowledge of cloud concepts, Azure services, Azure workloads, security and privacy in Azure, as well as Azure pricing and support. Candidates should be familiar with the general technology concepts, including concepts of networking, storage, compute, application support, and application development.</p>
+
+<p><img src="/assets/microsoft-certified-fundamentals-badge.svg" alt="Fundamentals" /></p>
+
+<p>After completing this learning path, i will be able to:</p>
+
+<ul>
+  <li>Understand the benefits of cloud computing in Azure and how it can save you time and money</li>
+  <li>Explain cloud concepts such as high availability, scalability, elasticity, agility, and disaster recovery</li>
+  <li>Describe core Azure architecture components such as subscriptions, management groups, resources and resource groups</li>
+  <li>Summarize geographic distribution concepts such as Azure regions, region pairs, and availability zones</li>
+</ul>
+
+<h1 id="-azure-fundamentals-part-1-describe-core-azure-concepts"><img src="/assets/az-900-describe-cloud-concepts.svg" alt="AzureP1" /> Azure Fundamentals part 1: Describe core Azure concepts</h1>
+
+<h2 id="what-is-cloud-computing">What is cloud computing?</h2>
+<ul>
+  <li>Services such as storage, servers and software that are provided over the internet for computing power.</li>
+</ul>
+
+<h2 id="why-is-cloud-computing-typically-cheaper-to-use">Why is cloud computing typically cheaper to use?</h2>
+<ul>
+  <li>Cloud computing allows the rental of compute power and storage from a rented datacenter, where resources are used when needed then returned when not in use.</li>
+  <li>Lower costs</li>
+  <li>Better efficiency</li>
+  <li>Scalability</li>
+</ul>
+
+<h2 id="why-should-i-move-to-the-cloud">Why should I move to the cloud?</h2>
+<ul>
+  <li>
+    <p>In this ever-changing digital world, provisioning of software and services are released at greater speeds due to the clouds on-deman access such as:</p>
+  </li>
+  <li>Pools of compute, storage, and networking components</li>
+  <li>Services such as speech recognition and other cognitive services that make applications more accessible.</li>
+  <li>Analytic services on software and devices</li>
+</ul>
+
+<h1 id="what-are-some-cloud-computing-advantages">What are some cloud computing advantages?</h1>
+<p><strong>Reliability</strong>: cloud-based systems can provide prolonged uptime with minimal downtime, depending on the SLA.</p>
+
+<p><strong>Scalability</strong>: Applications in the cloud can be scaled in two ways, while taking advantage of autoscaling:</p>
+
+<ul>
+  <li><strong>Vertically</strong>: Computing capacity can be increased by adding RAM or CPUs to a virtual machine.</li>
+  <li><strong>Horizontally</strong>: Computing capacity can be increased by adding instances of a resource, such as adding more virtual machines to your configuration.</li>
+</ul>
+
+<p><strong>Elasticity</strong>: Cloud-based applications can be configured to always have the resources they need.</p>
+
+<p><strong>Agility</strong>: Cloud-based resources can be deployed and configured quickly as application requirements change.</p>
+
+<p><strong>Geo-distribution</strong>: Applications and data can be deployed to regional datacenters around the globe, so customers always ha ve the best performance in their region.</p>
+
+<p><strong>Disaster recovery</strong>: By taking advantage of cloud-based backup services, data replication, and geo-distribution, applications can be deployed with the confidence that comes from knowing that the data is safe in the event that disaster should occur.</p>
+
+<h2 id="what-is-azure">What is Azure</h2>
+<p><em>Azure is a set of cloud services that help an individual, or organization meet their current or future business needs or challenges such as building, managing or deploy applications using the continually expanding tools and frameworks of services.</em></p>
+
+<h3 id="what-does-azure-offer">What does Azure Offer</h3>
+<p>Some of the benefits that Azure provide are as follows:</p>
+
+<p><strong>Future Ready</strong>: continuous innovation from Microsoft supports organizations and individuals development needs today and for the future.</p>
+
+<p><strong>Building on Own terms</strong>: With opensource and support for all languages and frameworks, one can make a selection of tools to use and deploy where one might want.</p>
+
+<p><strong>Seemless hybrid operations</strong>: Azure allows integration and management of environments on-premises, at the edge or in the cloud with tools and services designed for hybrid cloud solutions.</p>
+
+<p><strong>Cloud Security</strong>: Azure provides security backed by teams of experts and proactive compliance.</p>
+
+<h3 id="what-can-i-do-with-azure">What can I do with Azure</h3>
+
+<p><em>Azure provides more than 100 services that enable running existing applications on virtual machines, exploring software paradigms such as intelligent bots and mixed reality. With dynamic storage solutions, to grow or shrink to accomodate massive amounts of data, allowing solutions that would be difficult to implement.</em></p>
+
+<h3 id="what-is-the-azure-portal">What is the Azure portal?</h3>
+
+<p><em>It is a web-based, unified console that provides an alternative command-line tools. This allows a tenant or user to manage subscriptions using a GUI for example</em>:</p>
+
+<ul>
+  <li>Build, manage, and monitor everything from simple web apps to complex cloud deployments.</li>
+  <li>Create custom dashboards for an organized view of resources.</li>
+  <li>Configure accessibility options for an optimal experience.</li>
+</ul>
+
+<p>The Portal is designed for resiliance and continous availability, it is available on every datacenter and this avoids downtime and failures or network slowdowns as it receives continous updates, with no need for downtime during maintenance activities.</p>
+
+<h3 id="what-is-azure-marketplace">What is Azure Marketplace?</h3>
+<p><em>Users are able to connect with Microsoft partners, independant vendors and startups that offer solutions and services which are suited for Azure through the marketplace.</em></p>
+
+<p><img src="/assets/marketplace-6ca0b9bb.png" alt="AzureMarketplace" /></p>
+
+<h2 id="tour-of-azure-services">Tour of Azure services</h2>
+
+<h3 id="azure-services">Azure services</h3>
+
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Microsoft Learn-A-thon Data Engineering</title>
+	  <link>//Data-Engineering</link>
+	  <author></author>
+	  <pubDate>2021-04-15T00:00:00+02:00</pubDate>
+	  <guid>//Data-Engineering</guid>
+	  <description><![CDATA[
+	     <h1 id="microsoft-learn-a-thon-data-engineering-challenge">Microsoft Learn-a-thon: Data Engineering Challenge</h1>
+
+<p><img src="/assets/Microsoft learn-A-thon-Data-Engineering.png" alt="CloudSkills" /></p>
+
+<p><em>Learn how to design and implement full stack of data services on Azure.</em></p>
+
+<p><a href="https://docs.microsoft.com/en-us/users/cloudskillschallenge/collections/8pm3f2ejmkye?WT.mc_id=cloudskillschallenge_07fc764d-5604-45f4-870e-70ecb3cc7f56">Microsoft Learn-a-thon: Data Engineering</a></p>
+
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>The journey to Microsoft Certified: Data Analyst Associate</title>
+	  <link>//Exam-DA-100</link>
+	  <author></author>
+	  <pubDate>2021-04-12T00:00:00+02:00</pubDate>
+	  <guid>//Exam-DA-100</guid>
+	  <description><![CDATA[
+	     <h2 id="path-to-the-exam-da-100-analyzing-data-with-microsoft-power-bi">Path to the Exam DA-100: Analyzing Data with Microsoft Power BI.</h2>
+
+<p><img src="/assets/Microsoft-Data-Analyst-Associate.PNG" alt="Journey" /></p>
+
+<h3 id="microsoft-ignite-cloud-skills-challenge-march-2021">Microsoft Ignite Cloud Skills Challenge March 2021.</h3>
+
+<p><img src="/assets/Microsoft%20Ignite%20Challenge.jpg" alt="March2021" /></p>
+
+<p>I took this challenge because I am excited about designing and building scalable data models, cleaning and transforming data, and enabling advanced analytic capabilities that provide meaningful business value through easy-to-comprehend data visualizations.</p>
+
+<p>After finishing the Microsoft Ignite Cloud Skills Challenge, I was issued with a free certification exam for <strong>Exam DA-100: Analyzing Data with Microsoft Power BI</strong>.</p>
+
+<h2 id="discover-data-analysis">Discover Data Analysis</h2>
+
+<p><img src="/assets/data-analytics-and-microsoft.svg" alt="Module1" /></p>
+
+<p><strong>In this module, I will explore the different roles in data and learn the different tasks of a data analyst.</strong></p>
+
+<h3 id="introduction">Introduction</h3>
+
+<p><img src="/assets/abundance-data-ss.png" alt="DataAbundance" /></p>
+
+<p><strong>Thoughts:</strong> At work and home we get a lot of data, that is generated. From transactional data to social media.</p>
+
+<p><strong>Notes</strong>
+At work the goal is not to overcome the challenge of understanding and using the data to positively effect change within the organization.</p>
+
+<p>As Data Analysts we should be able to <strong>tell a story with that data, unlocking its secrets</strong>.</p>
+
+<p>This can be done by developing reports that tell that story allowing the oganization to take action on that data.</p>
+
+<p>The data must be accurate, in order to take advantage and be competitive, which will rely on acting on that data.</p>
+
+<p>We need the ability to see metrics and clearly understand the meaning behind those metrics.</p>
+
+<p>This will require working with other members who handle the data within the organization. This helps in overcoming challenges with insights on hidden values in data.</p>
+
+<h3 id="overview-of-data-analysis">Overview of data analysis</h3>
+
+<p><img src="/assets/reporting-trusted-data-ss.png" alt="Reporting" /></p>
+
+<p><strong>Thoughts</strong> Data analysis is the process of identifying, cleaning, transforming, and modeling data to find meaningful information.</p>
+
+<p><strong>Notes</strong>
+The reports are the storytellers that help support critical analysis.</p>
+
+<p>Core components of analytics are divided into these categories below:</p>
+
+<h5 id="descriptive">Descriptive</h5>
+<p>Descriptive analytics assist in answering questions on what happened using historical data. These provide a summary of large datasets describing outcomes.</p>
+
+<h5 id="diagnostic">Diagnostic</h5>
+<p>Diagnostic analytics answer questions of why something happened, this helps basic descriptive anayltics, by using the findings from descriptive analytics to discover the cause of those events.</p>
+
+<h5 id="predictive">Predictive</h5>
+<p>Predictive analytics help answer questions of what will happen in the future. It uses historical data to identify trends and determin if they will recur. Tools provide valuable insights into what can happen in the future. Predictive analytics provide a variety of statistical and amchine learning techniques such as neural networks, decision tress and regression.</p>
+
+<h5 id="prescriptive">Prescriptive</h5>
+<p>Prescriptive analytics help answer questions about what actions should be taken to achieve a goal or target. Techniques of using insights from predictive analytics and machine learning strategies to find patterns in large datasets, can help estimate different outcomes, in uncertainty to make informed decisions.</p>
+
+<h5 id="cognitive">Cognitive</h5>
+<p>Cognitive analytics attempt to draw inferences from existing data and patterns, and derive conclusions using knowledge bases, then add these findings back into the knowledge base for future inferences, self-learning feedback loops.</p>
+
+<h2 id="the-data-analysis-process-will-capture-data-from-trusted-sources-and-shape-it-into-something-that-is-consumable-meaningful-and-easily-understood-to-help-with-the-decision-making-process">The data analysis process will capture data from trusted sources and shape it into something that is consumable, meaningful, and easily understood to help with the decision-making process.</h2>
+
+<h3 id="roles-in-data">Roles in Data</h3>
+
+<p>Today’s applications and projects can be large and intricate, often involving the use of skills and knowledge from numerous individuals.</p>
+
+<p><img src="/assets/roles-data-ss.png" alt="DataRoles" /></p>
+
+<p>Excessive expansion of the size and different types of data has caused these roles to evolve into more specialized sets of skills that modernize and streamline the processes of data engineering and analysis.</p>
+
+<h5 id="business-analyst">Business analyst</h5>
+<p>A business analyst is closer to the business and is a specialist in interpreting the data that comes from the visualization.</p>
+
+<h5 id="data-analyst">Data analyst</h5>
+<p>Data analysts profile, clean, and transform data through visualization and reporting tools such as Microsoft Power BI. This includes design,build scalable and effective data models, and enable and implement the advanced analytics capabilities into reports for analysis.</p>
+
+<h5 id="data-engineer">Data engineer</h5>
+<p>Data engineers provision and set up data platform technologies that are on-premises and in the cloud, they also manage and secure the flow of structured and unstructured data from multiple sources, such data platforms can be from relational databases, nonrelational databases, data streams, and file stores.</p>
+
+<h5 id="data-scientist">Data scientist</h5>
+<p>Data scientists perform advanced analytics to extract value from data. Descriptive analytics evaluate data through a process known as exploratory data analysis (EDA).</p>
+
+<h5 id="database-administrator">Database administrator</h5>
+<p>A database administrator monitors and manages the overall health of a database and the hardware that it resides on, whereas a data engineer is involved in the process of data wrangling, in other words, ingesting, transforming, validating, and cleaning data to meet business needs and requirements.</p>
+
+<h3 id="tasks-of-a-data-analyst">Tasks of a Data Analyst</h3>
+
+<p><img src="/assets/tasks-data-analyst-ss.png" alt="Tasks" /></p>
+
+<p><strong>Thoughts</strong> Data Analysts assist organizations gain valuable insights in the vast datalake they have. This requires them to work with various stakeholders in an organization.</p>
+
+<h5 id="prepare">Prepare</h5>
+<p>Before a report can be created, data must be prepared. Data preparation is the process of profiling, cleaning, and transforming your data to get it ready to model and visualize.</p>
+
+<h5 id="model">Model</h5>
+<p>An effective data model makes reports more accurate, allows the data to be explored faster and more efficient, decreases time for the report writing process, and simplifies future report maintenance.</p>
+
+<h5 id="visualize">Visualize</h5>
+<p>The ultimate goal of the visualize task is to solve business problems, by using appropriate visualizations and interactions, the data analyst can provide an effective report that guides the reader through the content quickly and efficiently, therefore allowing the reader to follow a narrative into the data.</p>
+
+<h5 id="analyze">Analyze</h5>
+<p>The analyze task is an important step to understand and interpret the information that is displayed on the report. A Data Analyst, should understand the analytical capabilities of Power BI and use those capabilities to find insights, identify patterns and trends, predict outcomes, and then communicate those insights in a way that everyone can understand.</p>
+
+<h5 id="manage">Manage</h5>
+<p>As a data analyst, they are responsible for the management of the Power BI assets ( including reports, dashboards, workspaces, datasets, and more), overseeing the sharing and distribution of items, such as reports and dashboards, and ensuring the security of Power BI assets.</p>
+
+<h3 id="summary">Summary</h3>
+<p>A data analyst performs tasks that help ensure that decisions are based on trusted data.</p>
+
+<h2 id="get-data-in-power-bi">Get Data in Power BI</h2>
+
+<p><img src="/assets/get-data.svg" alt="Module2" /></p>
+
+<p><strong>In this module i will learn how to retrieve data from a wide variety of data sources, including Microsoft Excel, relational databases, and NoSQL data stores. Also learning how to improve performance while retrieving data.</strong></p>
+
+<h3 id="introduction-1">Introduction</h3>
+
+<p>You’ve been tasked by senior leadership to create a suite of reports that are dependent on data in several different locations.</p>
+
+<p><img src="/assets/1-data-source-scenario-c.png" alt="DataSource" /></p>
+
+<p>The data repositories are different from each other, some are in Microsoft SQL Server, some are in Microsoft Excel, but all the data is related.</p>
+
+<p>Power Query (the query engine used by Power BI and Excel) helps clean data, like renaming columns, replacing values, removing errors, and combining query results. After the data has been cleaned and organized, it will be ready to build reports in Power BI.</p>
+
+<p><strong>Requirements in Exam</strong>
+Get data from different data sources</p>
+<ol>
+  <li>identify and connect to a data source</li>
+  <li>change data source settings</li>
+  <li>select a shared dataset or create a local dataset</li>
+  <li>select a storage mode</li>
+  <li>choose an appropriate query type</li>
+  <li>identify query performance issues</li>
+  <li>use Microsoft Dataverse</li>
+  <li>use parameters</li>
+  <li>use or create a PBIDS file</li>
+  <li>use or create a data flow</li>
+  <li>connect to a dataset using the XMLA endpoint</li>
+</ol>
+
+<h3 id="get-data-from-files">Get data from files</h3>
+
+<p>A flat file is a type of file that has only one data table and every row of data is in the same structure. The file does not contain hierarchies (.csv) files, delimited text (.txt) files, and fixed width files. Microsoft Excel workbooks (.xlsx).</p>
+
+<p><img src="/assets/2-file-types-c.png" alt="Filetypes" /></p>
+
+<p>Power BI can import data from various sources, if you want to develop a report, you will need to consider if the data changes where the reports imports it from.</p>
+
+<h4 id="local">Local</h4>
+<p>Power Bi will <strong>import</strong> the data from a local file on the computer and create a new dataset. This report will be static</p>
+
+<h4 id="onedrive-for-business">OneDrive for Business</h4>
+<p>Power BI will <strong>pull</strong> the data from a file and will keep checking for any changes on the source file and update the reports.</p>
+
+<h4 id="onedrive---personal">OneDrive - Personal</h4>
+<p>Power BI will <strong>pull</strong> the data similar to <strong>OneDrive for Business</strong> but with this method the account must remain signed on to beenfit with the synchronization.</p>
+
+<h4 id="sharepoint---team-sites">SharePoint - Team Sites</h4>
+<p>Power BI will <strong>pull</strong> the data from <strong>SharePoint</strong> similar to <strong>OneDrive for Business</strong> but there is the option to use either the URL or the root folder.</p>
+
+<p><img src="/assets/2-local-vs-cloud-c.png" alt="ConnectPowerBI" /></p>
+
+<p><em>Using the cloud option such as OneDrive for Business and SharePoint Team Sites for keeping files in sync with the Power BI dataset, reports, and dashboards. But if the data does not change regularly, saving files on a local computer ideal</em>.</p>
+
+<h4 id="connect-to-data-in-a-file">Connect to data in a file</h4>
+
+<ol>
+  <li>
+    <p>In Power BI, on the Home tab, select <strong>Get data</strong>. In the list that displays, select the suitable option, such as Text/CSV or XML.</p>
+  </li>
+  <li>
+    <p>Select the file data to import
+After the file has connected to Power BI Desktop, the Navigator window opens. This window shows the data that is available in the data source.</p>
+  </li>
+  <li>
+    <p>Now the option to select the Load button to automatically load the data into the Power BI model or select the Transform Data button to launch the Power Query Editoris presented, this will allow reviewing and cleaning the data before loading it into the Power BI model.</p>
+  </li>
+</ol>
+
+<h4 id="change-the-source-file">Change the source file</h4>
+<p><em>If the source file path is changed ensure Power BI reconnects to the same file with the same data structure, otherwise any changes to teh structure of the file, will break the reporting model</em>.</p>
+
+<p><img src="/assets/2-excel-data-source-settings-ssm.png" alt="DatasourceChanges" /></p>
+
+<h3 id="get-data-from-relational-data-sources">Get data from relational data sources</h3>
+
+<p><em>Power BI can connect to a relational database that is either on premises or in the cloud. This helps in monitoring how the organization is performing by observing trends and provide the ability to plan budgets and set KPIs</em>.</p>
+
+<p><img src="/assets/3-get-data-sql-server-ssm.png" alt="DataFlow" /></p>
+
+<p>When connecting to a relational database there will be the option for <strong>Data Connectivity Mode</strong></p>
+<ul>
+  <li>Import</li>
+  <li>DirectQuery</li>
+</ul>
+
+<p>with <strong>Advanced Options</strong> available as well.</p>
+
+<h4 id="select-data-to-import">Select data to Import</h4>
+
+<p>Once Power BI has connected to the relational database, the entities will be displayed in the <strong>Navigator</strong>, by showing this data it is a quick overview to confirm that the data is correct.</p>
+
+<p>The options to <strong>Load</strong> or <strong>Transform Data</strong> will be available.</p>
+
+<h4 id="import-data-by-writing-an-sql-query">Import data by writing an SQL query</h4>
+
+<p>Using the <strong>Advanced Options</strong> allows a user to type out <strong>SQL Queries</strong> to specify the tables and columns. This allows loading only the required data by specifying the <em>rows</em> and <em>columns</em> needed. SQL queries are beneficial also in that joining tables, calculations, logical statements and filtering data help.</p>
+
+<h4 id="change-data-source-settings">Change data source settings</h4>
+
+<p>Once a data source connection is established and data is loaded into Power BI, the ability to change the connection settings is still available, using the <em>Home</em> tab&gt;<em>Transform Data</em>&gt;<em>Data Source Settings</em>. A windows opens that allows changing the <em>source</em>, <em>edit permissions</em> or <em>clear permissions</em>.</p>
+
+<p>This can also be done using the <strong>Power Query</strong> under <strong>Query Settings</strong>.</p>
+
+<h3 id="get-data-from-a-nosql-database">Get data from a NoSQL database</h3>
+
+<p>Some organizations may not use relational databases, Power BI can connect to such repositories. On the <strong>Get Data</strong> feature, using the <em>More</em> function will provide options to connect to such types of repositories i.e.:<strong>Azure</strong>.</p>
+
+<p><img src="/assets/4-get-data-cosmos-ssm.png" alt="GetDataAzure" /></p>
+
+<p><em>Note</em>: Always ensure the <strong>Account Key</strong> is entered if it is the first time using the connection.</p>
+
+<h4 id="import-a-json-file">Import a JSON file</h4>
+
+<p>JSON type records must be extracted and normalized before they can be used  to report on, so this requires transforming the data before loading it into Power BI Desktop.</p>
+
+<ul>
+  <li><em>All records in the document are represented as a Record type in Power BI.</em></li>
+</ul>
+
+<p><img src="/assets/4-cosmos-navigator-ss.png" alt="CosmoDB" /></p>
+
+<p>In Power Query, to view the context menu, on the right side of the <strong>Column1</strong> header, the list of fields will be displayed where we can clear the <em>user original column name as prefix</em>.</p>
+
+<p><img src="/assets/4-expand-record-ssm.png" alt="ContextMenu" /></p>
+
+<p>Once satisfied with the data, the changes can be applied and closed, then the data will resemble a table with rows and columns. At this stage data from the <em>non-relational</em> data can now be related to other data sources and used by Power BI.</p>
+
+<h3 id="get-data-from-online-services">Get data from online services</h3>
+
+<p>Getting data from other sources such as <strong>SharePoint</strong>, <strong>OneDrive</strong>, <strong>Dynamics365</strong> or <strong>Google Analytics</strong> can be combined iwith Power BI, even though these applications provide their own data.</p>
+
+<h4 id="connect-to-data-in-an-application">Connect to data in an application</h4>
+
+<p>When connecting to data in these types of applications, the URL will be required that is used to logon through the web browser. By simply copying the URL and pasting it in the connection windows in Power BI, then Power BI will need to authorize the connection to the application.</p>
+
+<h3 id="select-a-storage-mode">Select a storage mode</h3>
+
+<p>Power BI allows connection to the data, without having to import all the data due to it being too large which might cause a bottle neck. Power BI provides a solution by using <strong>DirectQuery storage mode</strong>, this allows querying the data without having to import it.</p>
+
+<p>The advantage to this, is that the data is always the most recent version available.</p>
+
+<p>There are three types of storage modes:</p>
+
+<ol>
+  <li><strong>Import</strong>
+    <ul>
+      <li>Copies the datasetfrom a local source into a Power BI dataset, which allows the use of all the Power BI service features, like <em>Q&amp;A</em> and <em>Quick Insights</em>. But the data refresh must be manually done.</li>
+    </ul>
+  </li>
+  <li><strong>DirectQuery</strong>
+    <ul>
+      <li>DirectQuery is useful when the need for up to date data is required and also to meet the security requirements of an organization without having to keep a copy, this will help avoid performance problems such as high latency, and slowing down systems. The data is also refined as only the required information is retrieved.</li>
+    </ul>
+  </li>
+  <li><strong>Dual (Composite)</strong>
+    <ul>
+      <li>Dual mode, allows Power BI to choose the most effient way to retrieve data, so tables can be brought in both with DirectQuery and Import at the same time.</li>
+    </ul>
+  </li>
+</ol>
+
+<h3 id="get-data-from-azure-analysis-services">Get data from Azure Analysis Services</h3>
+
+<p><em>Azure Analysus Services is similar to the Power BI data modeling and storage technology, as it uses the data analysis expressions to build calculations and since it is an Azure Product it can ingest data from multiple sources, build relationships and create calculations.</em></p>
+
+<p>Getting data from Azure Analysis Services is similar to getting data from SQL Server, but the differences between Azure Analysis Services cudes and SQL Server are:</p>
+
+<ul>
+  <li>Analysis Services cubes already have calculations in the cubes.</li>
+  <li>To get data from an entire table, there is no need to use T-SQL to query the data as with SQL Server,  but using Multi-dimensional Expressions (MDX) or Data Analysis Expressions.</li>
+</ul>
+
+<h4 id="connect-to-data-in-analysis-services">Connect to data in Analysis Services</h4>
+
+<p>When connecting with Azure Analysis Services, the server address and database name will needed and two options will be displayed:</p>
+<ul>
+  <li>Import</li>
+  <li>Connect live</li>
+</ul>
+
+<p><img src="/assets/7-analysis-services-connection-ss.png" alt="ConnectAAS" /></p>
+
+<p><strong>Connect live</strong> is a new option in Azure Analysis Services.</p>
+
+<p><em>Azure Analysis Services use the Tabular model and DAX to build calculations, like Power BI does and these models are compatible.</em></p>
+
+<div class="language-diff highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">I noticed that live refresh allows the data to be refreshed quicker as any changes to the data will automatically change for the reports in the service. Connect live also helps by keeping the Data and DAX calculations in their original location. You can also choose the table that are required.
+</span></code></pre></div></div>
+
+<p>The ability to import data from various sources into the Azure Analysis Services model and then have a live connection helps with performing all the data modeling and DAX measures in one place.</p>
+
+<h3 id="fix-performance-issues">Fix performance issues</h3>
+
+<p><em>Power BI provides Performance Analyzer to fix or streamline problems when processing reports.</em></p>
+
+<h5 id="optimize-performance-in-power-query">Optimize performance in Power Query</h5>
+
+<p><em>Power Query’s performance depends on the data source level. Because Power Query can get data from a variety of sources, the performance tuning techniques are wide as well.</em></p>
+
+<h4 id="query-folding">Query Folding</h4>
+
+<div class="language-diff highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">Query folding is the process where transformations and edits that are done in Power Query are simultaneously tracked as the native queries, or **SELECT** SQL statements, while actively making transformations.
+</span></code></pre></div></div>
+<ul>
+  <li>Power Query editor can make transformations to the data as it can be used to load data into Power BI, these transformations can be renaming, deleting columns, appending, parsing, filtering or grouping data.</li>
+</ul>
+
+<p>Benefits to query folding include:</p>
+
+<ul>
+  <li>More efficiency in data refreshes and incremental refreshes. Power BI will not have to process the transformations rather this is not done locally, as Power BI will just allocate resources better.</li>
+  <li>Automatic compatibility with <strong>DirectQuery</strong> and Dual storage modes. Query folding is an automatic capability as all DirectQuery and Dual storage mode data sources will be back-end server processing abilities to ensure direct connection.</li>
+</ul>
+
+<p>Native Queries are not possible for the following transformations:</p>
+<ul>
+  <li>Adding an index column</li>
+  <li>Merfing and appending columns of different rables with two different sources</li>
+  <li>Changing the data type of a column</li>
+  <li>Running complex DAX functions</li>
+</ul>
+
+<p>If the above scenario’s exist then under <strong>Applied steps</strong>, the <em>View Native Query</em> will not  be available,</p>
+
+<div class="language-diff highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="err">#</span> A good guideline to remember is that if you can translate a transformation into a Select SQL statement, which includes operators and clauses such as GROUP BY, SORT BY, WHERE, UNION ALL, and JOIN, you can use query folding.
+
+# While query folding is one option to optimize performance when retrieving, importing, and preparing data, another option is query diagnostics.
+</code></pre></div></div>
+
+<h4 id="query-diagnostics">Query Diagnostics</h4>
+
+<p><em>Query Diagnostics is a tool that can help determine bottlenecks with loading and transforming data.</em></p>
+
+<blockquote>
+  <p>To access the query diagnostics in Power Qwery Editor, navigate to <strong>Tools</strong>, <strong>Start Diagnostics</strong> then <strong>Session Diagnostics</strong>. Once complete select <strong>Stop Diagnostics</strong>.</p>
+</blockquote>
+
+<ul>
+  <li>Selecting <strong>Diagnostic Step</strong> shows the length of time it takes to run a step.</li>
+</ul>
+
+<p><img src="/assets/8-applying-query-diagnostics-ss.png" alt="DiagSteps" /></p>
+
+<h4 id="other-techniques-to-optimize-performance">Other techniques to optimize performance</h4>
+
+<p>Other methods to optimize query performance in Power BI include:</p>
+
+<ul>
+  <li>
+    <p><strong>Process as much data as possible in the original data source.</strong> Power Query and Power Query Editor allow processing the data; but doing so can lower the processing performance in other parts of the report, due to the processing power required to complete the task.Generally, a good practice is to process, as much as possible, in the native data source.</p>
+  </li>
+  <li>
+    <p><strong>Use native SQL queries.</strong> When using DirectQuery for SQL databases, make sure that you are not pulling data from stored procedures or common table expressions (CTEs).</p>
+  </li>
+  <li>
+    <p><strong>Separate date and time, if bound together.</strong> If any of the tables have columns that combine date and time, make sure they are separated into distinct columns before importing them into Power BI. This approach will increase compression abilities.K</p>
+  </li>
+</ul>
+
+<h3 id="resolve-data-import-errors">Resolve data import errors</h3>
+
+<p>While importing data into Power BI, errors may be encountered resulting from factors such as:</p>
+
+<ul>
+  <li>Power BI imports from numerous data sources.</li>
+  <li>Each data source might have dozens (and sometimes hundreds) of different error messages.</li>
+  <li>Other components can cause errors, such as hard drives, networks, software services, and operating systems.</li>
+  <li>Data can often not comply with any specific schema.</li>
+</ul>
+
+<h4 id="query-timeout-expired">Query timeout expired</h4>
+
+<p>To manage concurrent connection to a relational system administrators may limit the timeout period from a few seconds to a number of minutes. The error below might occur due to this.</p>
+
+<p><img src="/assets/9-data-import-query-timeout-ss.png" alt="errors1" /></p>
+
+<h4 id="power-bi-query-error-timeout-expired">Power BI Query Error: Timeout expired</h4>
+
+<p>This type of errror indicates that too much data has been pulled, to minimise this, the use of few columns or rows from a single table, SQL statements might become too complex and thus affect performance such as nested queries, grouping, aggregations and so on.</p>
+
+<p><em>By spliting the query, then merging the queries with Power Query this will help in performance and errors.</em></p>
+
+<h4 id="we-couldnt-find-any-data-formatted-as-a-table">We couldn’t find any data formatted as a table</h4>
+
+<p><em>“We couldn’t find any data formatted as a table” error while importing data from Microsoft Excel. Fortunately, this error is self-explanatory. Power BI expects to find data formatted as a table from Excel.</em></p>
+
+<p><img src="/assets/9-format-as-table-excel-ss.png" alt="UnfoundFile" /></p>
+
+<h4 id="could-not-find-file">Could not find file</h4>
+<p><em>This error is caused by the file moving locations or the permissions to the file changing. If the cause is the former, the location of the file needs to be found and change the source settings.</em></p>
+
+<p><img src="/assets/9-file-location-ss.png" alt="FileMissing" /></p>
+
+<p><img src="/assets/9-query-changes-ss.png" alt="FileLocation" /></p>
+
+<p><img src="/assets/9-file-location-new-location-ss.png" alt="SourceLocation" /></p>
+
+<h4 id="data-type-errors">Data type errors</h4>
+
+<p>Sometimes, when importing data into Power BI, the columns appear blank. This situation happens because of an error in interpreting the data type in Power BI. The resolution to this error is unique to the data source.</p>
+
+<p>If importing data from SQL Server and see blank columns, try to convert to the correct data type in the query.</p>
+
+<p>Instead of using this query:</p>
+<div class="language-diff highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="gi">+ SELECT CustomerPostalCode FROM Sales.Customers
+</span></code></pre></div></div>
+<p>Use this query:</p>
+<div class="language-diff highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="gd">- SELECT CAST(CustomerPostalCode as varchar(10)) FROM Sales.Customers
+</span></code></pre></div></div>
+<p>By specifying the correct type at the data source, this eliminates many of these common data source errors.</p>
+
+<h2 id="--get-started-building-with-power-bi"><img src="/assets/get-started-power-bi.svg" alt="BuildingPowerBI" />  Get started building with Power BI</h2>
+
+<h3 id="introduction-2">Introduction</h3>
+
+<p><em>Microsoft Power BI is a collection of software services, apps, and connectors that work together to turn your unrelated sources of data into coherent, visually immersive, and interactive insights.</em></p>
+
+<p><img src="/assets/pbi-intro_01.png" alt="PowerBIIntro" /></p>
+
+<h4 id="the-parts-of-power-bi">The parts of Power BI</h4>
+
+<p><em>These three elements—Desktop, the service, and Mobile apps—are designed to let people create, share, and consume business insights in the way that serves them, or their role, most effectively.</em></p>
+
+<p><img src="/assets/pbi-intro_02.png" alt="PowerBIParts" /></p>
+
+<h4 id="the-flow-of-work-in-power-bi">The flow of work in Power BI</h4>
+
+<p><em>A common flow of work in Power BI starts Power BI Desktop, where a report is created. That report is then published to the Power BI service and finally shared, so that users of Power BI Mobile apps can consume the information.</em></p>
+
+<h4 id="use-power-bi">Use Power BI</h4>
+<p>The common flow of activity looks like this:</p>
+
+<ol>
+  <li>Bring data into Power BI Desktop, and create a report.</li>
+  <li>Publish to the Power BI service, where you can create new visualizations or build dashboards.</li>
+  <li>Share dashboards with others, especially people who are on the go.</li>
+  <li>View and interact with shared dashboards and reports in Power BI Mobile apps.</li>
+</ol>
+
+<p><img src="/assets/pbi-using_01.png" alt="CommonFlow" /></p>
+
+<h4 id="building-blocks-of-power-bi">Building blocks of Power BI</h4>
+<p><em>Basic building blocks in Power BI</em>:</p>
+
+<ul>
+  <li>Visualizations</li>
+  <li>Datasets</li>
+  <li>Reports</li>
+  <li>Dashboards</li>
+  <li>Tiles</li>
+</ul>
+
+<p><strong>Visualizations</strong>
+<em>Are visual representations of data, in formats such as charts, color-coded maps and other interesting things created to represent the data visually.</em></p>
+
+<p>Below is a screen shot of different types of Visualizations
+<img src="/assets/pbi-bblocks_01.png" alt="Visualizations" /></p>
+
+<p><strong>Datasets</strong>
+<em>A dataset is a collection of data that can be imported in Power BI to create visualizations.</em></p>
+
+<p>Below is a screen shot of a simple Excel spreadsheet.
+<img src="/assets/pbi-bblocks_02.png" alt="Spreadsheet" /></p>
+
+<p>Datasets can also be a combination of data from different sources, which can then be filtered to provide a unique dataset in Power BI.</p>
+
+<h4 id="reports">Reports</h4>
+<p><em>A report is a combination of visualizations, that appear on multiple pages and are related to each other.</em>
+<img src="/assets/pbi-bblocks_03.png" alt="Reports" /></p>
+
+<h4 id="dashboards">Dashboards</h4>
+<p><em>A dashboard is a collection of visualizations, that are created, but appear on one page. The dashboard also known as a canvas, with a group of visuals that provide a quick insights into data presented that can then be shared with other users.</em></p>
+
+<h4 id="tiles">Tiles</h4>
+<p><em>A tile is a single visualization on the dashboard, as it holds only one visualization and can be surrounded by many tiles on the canvas.</em></p>
+
+<p><img src="/assets/pbi-bblocks_04.png" alt="Tile" /></p>
+
+<p>Power BI is a collection of services, apps, and connectors that lets you connect to your data, wherever it happens to reside, filter it if necessary, and then bring it into Power BI to create compelling visualizations that you can share with others.</p>
+
+<h3 id="using-the-power-bi-service">Using the Power BI service</h3>
+<p><em>An app is a collection of preset, ready-made visuals and reports that are shared with an entire organization.</em></p>
+
+<h4 id="create-out-of-box-dashboards-with-cloud-services">Create out-of-box dashboards with cloud services</h4>
+<p><em>Once logged into the Power BI service, by navigating to the bottom left hand corner there is a button called <strong>Get Data</strong>, this will bring up another page where online services can be selected to connect Power BI service with the software provider.</em></p>
+
+<p><img src="/assets/pbi-touring_01.png" alt="Get Data" /></p>
+
+<p>The <em>canvas</em> area in the center of the Power BI service shows available sources of data in the Power BI service such as Microsoft Excel files, databases, Microsoft Azure data and the Power BI service can also connect to various other software services.</p>
+
+<p><img src="/assets/pbi-touring_02.png" alt="Get Data" /></p>
+
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Microsoft Learn-A-thon Power Apps for Functional Consultants Challenge</title>
+	  <link>//PowerApps-for-Functional-Consultants</link>
+	  <author></author>
+	  <pubDate>2021-03-13T00:00:00+02:00</pubDate>
+	  <guid>//PowerApps-for-Functional-Consultants</guid>
+	  <description><![CDATA[
+	     <h1 id="microsoft-learn-a-thon-power-apps-for-functional-consultants-challenge">Microsoft Learn-a-thon: Power Apps for Functional Consultants Challenge</h1>
+
+<p><img src="/assets/Microsoft Ignite Challenge.jpg" alt="CloudSkills" /></p>
+
+<p><em>Learn Common Data Service, create apps by using Power Apps, manage using Power Automate; implement Power Virtual Agents chatbots; and integrate Power Apps with other apps and services.</em></p>
+
+<p><a href="https://docs.microsoft.com/en-us/users/cloudskillschallenge/collections/o1qrb6g6qpd0?WT.mc_id=cloudskillschallenge_30b8a980-ab73-4f62-9f9e-96800e4f032a">Microsoft Learn-a-thon: Power Apps Challenge</a></p>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Azure Developer League: Data Science and AI Challenge</title>
+	  <link>//Data-Science-and-AI</link>
+	  <author></author>
+	  <pubDate>2021-03-02T00:00:00+02:00</pubDate>
+	  <guid>//Data-Science-and-AI</guid>
+	  <description><![CDATA[
+	     <h1 id="azure-developer-league-data-science-and-ai-challenge">Azure Developer League: Data Science and AI Challenge</h1>
+
+<p><img src="/assets/Badge red flag with logo.png" alt="CloudSkills" /></p>
+
+<p><em>Learn the basics of data science and how to design and implement machine learning models in Azure.</em></p>
+
+<p><a href="https://docs.microsoft.com/en-us/learn/challenges?id=d870c146-bf03-4869-a83b-42aacd2e534e">Azure Developer League: Data Science and AI</a></p>
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>

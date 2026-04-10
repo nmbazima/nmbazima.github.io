@@ -1,0 +1,51 @@
+# COPYRIGHT NOTICE
+
+**Owner:** Newton Mbazima  
+**Website:** https://nmbazima.github.io  
+
+### 1. Ownership and Copyright
+Copyright © Newton Mbazima. All Rights Reserved.
+
+All content contained on this website[](https://nmbazima.github.io), including but not limited to text, articles, blog posts, poetry, creative writings (under any alias including but not limited to "The Phantom", "GreyGuardian", "GreyGuardianOne", "GuardianOne", "Guardian Studioz", "Phantom Recordz", and "Ten Pencils"), designs, code, images, layout, and any other materials, is the sole and exclusive intellectual property of Newton Mbazima.
+
+This work is protected under international copyright laws. All rights are expressly reserved.
+
+### 2. Reserved Rights
+No part of this website or its contents may be reproduced, copied, modified, distributed, transmitted, displayed, published, adapted, translated, or used in any form or by any means (electronic, mechanical, photocopying, recording, or otherwise) without the prior written permission of the copyright owner.
+
+### 3. Commercial Use and Licensing
+Any commercial use, republication, adaptation, derivative work, translation, or public performance of any content requires a royalty-bearing license.  
+Such permission will be granted only upon payment of an appropriate licensing fee to Newton Mbazima or his designated beneficiaries.
+
+Unauthorized commercial use or reproduction is strictly prohibited and may result in legal action.
+
+### 4. Non-Commercial Use
+Limited personal, non-commercial use is permitted solely for private reading and reference, provided that:
+- The content remains unmodified;
+- Proper attribution is given to Newton Mbazima (including any alias used);
+- No commercial advantage or monetary gain is derived.
+
+### 5. Succession of Rights
+In the event of the author's death or legal incapacity, all copyright rights and benefits shall transfer to and be administered by his wife and/or descendants (or their legal representatives) as beneficiaries.
+
+### 6. Aliases
+All creative works published under the following aliases (or any future aliases) are fully owned by Newton Mbazima:
+- The Phantom
+- GreyGuardian
+- GreyGuardianOne
+- GuardianOne
+- Guardian Studioz
+- Phantom Recordz
+- Ten Pencils
+
+### 7. Contact for Permissions
+For licensing inquiries, commercial use requests, or any permissions, please contact Newton Mbazima directly via the website.
+
+### 8. Disclaimer
+This notice is provided to the best of the author's knowledge and does not constitute formal legal advice. For specific legal matters, please consult a qualified attorney licensed in the relevant jurisdiction.
+
+Made with ❤️ in Lusaka, Zambia  
+Newton Mbazima  
+https://nmbazima.github.io
+
+© 2026 Newton Mbazima. All Rights Reserved.

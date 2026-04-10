@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en" class="scroll-smooth">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Newton Mbazima | Notes Along the Way</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Playfair+Display:wght@700&display=swap');
+    body { font-family: 'Inter', sans-serif; }
+    h1, h2 { font-family: 'Playfair Display', serif; }
+  </style>
+</head>
+<body class="bg-zinc-950 text-white">
+  <!-- NAV -->
+  <nav class="fixed top-0 w-full bg-zinc-950/90 backdrop-blur-md z-50 border-b border-white/10">
+    <div class="max-w-7xl mx-auto px-6 py-4 flex justify-between items-center">
+      <a href="index.html" class="text-2xl font-bold tracking-tight">Newton Mbazima</a>
+      <div class="hidden md:flex space-x-8 text-sm font-medium">
+        <a href="index.html" class="hover:text-teal-400 transition">Home</a>
+        <a href="poetry.html" class="hover:text-teal-400 transition">Poetry</a>
+        <a href="portfolio.html" class="hover:text-teal-400 transition">Portfolio</a>
+        <a href="business.html" class="hover:text-teal-400 transition">Business</a>
+        <a href="about.html" class="hover:text-teal-400 transition">About</a>
+      </div>
+      <button onclick="toggleMobileMenu()" class="md:hidden text-2xl"><i class="fa-solid fa-bars"></i></button>
+    </div>
+    <!-- Mobile Menu -->
+    <div id="mobileMenu" class="hidden md:hidden bg-zinc-900 border-t border-white/10 px-6 py-4 flex flex-col space-y-4 text-sm">
+      <a href="index.html" class="hover:text-teal-400">Home</a>
+      <a href="poetry.html" class="hover:text-teal-400">Poetry</a>
+      <a href="portfolio.html" class="hover:text-teal-400">Portfolio</a>
+      <a href="business.html" class="hover:text-teal-400">Business</a>
+      <a href="about.html" class="hover:text-teal-400">About</a>
+    </div>
+  </nav>
+
+  <!-- HERO -->
+  <section class="min-h-screen flex items-center pt-20 bg-gradient-to-br from-zinc-950 via-teal-950 to-zinc-950">
+    <div class="max-w-7xl mx-auto px-6 grid md:grid-cols-2 gap-12 items-center">
+      <div>
+        <h1 class="text-6xl md:text-7xl font-bold leading-none mb-4">Notes Along the Way</h1>
+        <p class="text-2xl text-teal-300 mb-8">Three thousand and odd things. The story begins here.</p>
+        <p class="text-lg text-zinc-400 max-w-md">Technologist • Poet • Entrepreneur • Based in Lusaka, Zambia</p>
+        <a href="#featured" class="inline-flex mt-10 items-center gap-3 bg-white text-zinc-900 px-8 py-4 rounded-2xl font-semibold hover:bg-teal-300 transition">
+          Explore my work <i class="fa-solid fa-arrow-down"></i>
+        </a>
+      </div>
+      <div class="text-center md:text-right">
+        <div class="inline-block bg-white/10 backdrop-blur-xl p-8 rounded-3xl border border-white/20">
+          <p class="text-sm uppercase tracking-widest text-teal-400">Current focus</p>
+          <p class="text-4xl font-light mt-2">AI • Cloud • Poetry</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- FEATURED ARTICLES -->
+  <section id="featured" class="max-w-7xl mx-auto px-6 py-24">
+    <h2 class="text-4xl font-semibold mb-12 flex items-center gap-3">
+      <span>Featured Articles</span>
+      <span class="flex-1 h-px bg-white/20"></span>
+    </h2>
+    <div class="grid md:grid-cols-3 gap-8">
+      <!-- Replace these with your real articles -->
+      <a href="#" class="group bg-zinc-900 rounded-3xl overflow-hidden hover:-translate-y-2 transition">
+        <div class="h-48 bg-gradient-to-br from-teal-500 to-cyan-500 flex items-center justify-center text-6xl">📝</div>
+        <div class="p-8">
+          <p class="text-teal-400 text-sm mb-2">March 2026</p>
+          <h3 class="text-2xl font-semibold mb-3 group-hover:text-teal-400">My Journey into Generative AI</h3>
+          <p class="text-zinc-400 line-clamp-3">Lessons from IBM AI Practitioner and real-world experiments in Lusaka.</p>
+        </div>
+      </a>
+      <a href="#" class="group bg-zinc-900 rounded-3xl overflow-hidden hover:-translate-y-2 transition">
+        <div class="h-48 bg-gradient-to-br from-purple-500 to-pink-500 flex items-center justify-center text-6xl">🌍</div>
+        <div class="p-8">
+          <p class="text-teal-400 text-sm mb-2">February 2026</p>
+          <h3 class="text-2xl font-semibold mb-3 group-hover:text-teal-400">Azure Cloud in Zambia: Opportunities & Challenges</h3>
+          <p class="text-zinc-400 line-clamp-3">What I learned while preparing for AZ-900 and DP-900.</p>
+        </div>
+      </a>
+      <a href="#" class="group bg-zinc-900 rounded-3xl overflow-hidden hover:-translate-y-2 transition">
+        <div class="h-48 bg-gradient-to-br from-amber-500 to-orange-500 flex items-center justify-center text-6xl">✍️</div>
+        <div class="p-8">
+          <p class="text-teal-400 text-sm mb-2">January 2026</p>
+          <h3 class="text-2xl font-semibold mb-3 group-hover:text-teal-400">The Poetry of Code</h3>
+          <p class="text-zinc-400 line-clamp-3">How writing code and writing poems are the same creative act.</p>
+        </div>
+      </a>
+    </div>
+    <div class="text-center mt-12">
+      <a href="poetry.html" class="text-teal-400 hover:underline flex items-center gap-2 justify-center">More writing &rarr;</a>
+    </div>
+  </section>
+
+  <!-- FOOTER -->
+  <footer class="bg-black py-12 border-t border-white/10">
+    <div class="max-w-7xl mx-auto px-6 text-center text-zinc-500 text-sm">
+      © 2026 Newton Mbazima • <a href="https://github.com/nmbazima" class="hover:text-white">GitHub</a> • Made with ❤️ in Lusaka
+    </div>
+  </footer>
+
+  <script>
+    function toggleMobileMenu() {
+      const menu = document.getElementById('mobileMenu');
+      menu.classList.toggle('hidden');
+    }
+    // Tailwind script already loaded
+  </script>
+</body>
+</html>

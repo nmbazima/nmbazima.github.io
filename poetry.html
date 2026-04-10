@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en" class="scroll-smooth">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Poetry • Newton Mbazima</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Playfair+Display:wght@700&display=swap');
+    body { font-family: 'Inter', sans-serif; }
+    h1, h2 { font-family: 'Playfair Display', serif; }
+  </style>
+</head>
+<body class="bg-zinc-950 text-white">
+
+  <!-- NAVIGATION (same as your index.html) -->
+  <nav class="fixed top-0 w-full bg-zinc-950/90 backdrop-blur-md z-50 border-b border-white/10">
+    <div class="max-w-7xl mx-auto px-6 py-4 flex justify-between items-center">
+      <a href="index.html" class="text-2xl font-bold tracking-tight">Newton Mbazima</a>
+      <div class="hidden md:flex space-x-8 text-sm font-medium">
+        <a href="index.html" class="hover:text-teal-400 transition">Home</a>
+        <a href="poetry.html" class="hover:text-teal-400 transition">Poetry</a>
+        <a href="portfolio.html" class="hover:text-teal-400 transition">Portfolio</a>
+        <a href="business.html" class="hover:text-teal-400 transition">Business</a>
+        <a href="about.html" class="hover:text-teal-400 transition">About</a>
+      </div>
+      <button onclick="toggleMobileMenu()" class="md:hidden text-2xl"><i class="fa-solid fa-bars"></i></button>
+    </div>
+    <!-- Mobile Menu -->
+    <div id="mobileMenu" class="hidden md:hidden bg-zinc-900 border-t border-white/10 px-6 py-4 flex flex-col space-y-4 text-sm">
+      <a href="index.html" class="hover:text-teal-400">Home</a>
+      <a href="poetry.html" class="hover:text-teal-400">Poetry</a>
+      <a href="portfolio.html" class="hover:text-teal-400">Portfolio</a>
+      <a href="business.html" class="hover:text-teal-400">Business</a>
+      <a href="about.html" class="hover:text-teal-400">About</a>
+    </div>
+  </nav>
+
+  <div class="max-w-4xl mx-auto px-6 pt-28 pb-24">
+    <h1 class="text-5xl font-bold mb-4">Poetry</h1>
+    <p class="text-teal-300 mb-12">Three thousand and odd things explained.</p>
+
+    <!-- Alias 1: The Wanderer -->
+    <div class="mb-20">
+      <h2 class="text-3xl font-semibold mb-10 border-l-4 border-teal-400 pl-4">Alias 1: GuardianOne</h2>
+      <div class="space-y-10">
+
+        <!-- Poem Example 1 -->
+        <div class="bg-zinc-900 rounded-3xl p-8 hover:bg-zinc-800/80 transition-all">
+          <div class="flex flex-wrap justify-between items-start gap-4 mb-5">
+            <h3 class="text-2xl font-medium">"Under Lusaka Skies"</h3>
+            <div class="flex items-center gap-3">
+              <span class="text-teal-400 text-sm font-medium">10 April 2026</span>
+              <span class="px-3 py-1 text-xs bg-teal-900 text-teal-300 rounded-full">Nature • Reflection</span>
+            </div>
+          </div>
+          <div class="prose prose-invert max-w-none text-lg leading-relaxed mb-6">
+            <p class="italic">Under Lusaka skies, the river whispers secrets only the quiet heart can hear...</p>
+            <p>Your full poem text goes here. Write as many paragraphs as you like.</p>
+          </div>
+          <a href="#" class="inline-flex items-center gap-2 text-teal-400 hover:text-teal-300 font-medium">
+            Read full poem <i class="fa-solid fa-arrow-right text-sm"></i>
+          </a>
+        </div>
+
+        <!-- Add more poems here by copying the block above -->
+
+      </div>
+    </div>
+
+    <!-- Alias 2: The Coder-Poet -->
+    <div class="mb-20">
+      <h2 class="text-3xl font-semibold mb-10 border-l-4 border-purple-400 pl-4">Alias 2: The Phantom</h2>
+      <div class="space-y-10">
+
+        <div class="bg-zinc-900 rounded-3xl p-8 hover:bg-zinc-800/80 transition-all">
+          <div class="flex flex-wrap justify-between items-start gap-4 mb-5">
+            <h3 class="text-2xl font-medium">"if (heart.beats)"</h3>
+            <div class="flex items-center gap-3">
+              <span class="text-teal-400 text-sm font-medium">5 March 2026</span>
+              <span class="px-3 py-1 text-xs bg-purple-900 text-purple-300 rounded-full">Tech • Emotion</span>
+            </div>
+          </div>
+          <div class="prose prose-invert max-w-none text-lg leading-relaxed mb-6">
+            <p class="italic">if (heart.beats) { write(); } else { dream(); }</p>
+            <p>Second alias poem content goes here...</p>
+          </div>
+          <a href="#" class="inline-flex items-center gap-2 text-teal-400 hover:text-teal-300 font-medium">
+            Read full poem <i class="fa-solid fa-arrow-right text-sm"></i>
+          </a>
+        </div>
+
+      </div>
+    </div>
+
+    <!-- Alias 3: The Dreamer -->
+    <div class="mb-20">
+      <h2 class="text-3xl font-semibold mb-10 border-l-4 border-amber-400 pl-4">Alias 3: Ten Pencils</h2>
+      <div class="space-y-10">
+
+        <div class="bg-zinc-900 rounded-3xl p-8 hover:bg-zinc-800/80 transition-all">
+          <div class="flex flex-wrap justify-between items-start gap-4 mb-5">
+            <h3 class="text-2xl font-medium">"Clouds Shaped Like Code"</h3>
+            <div class="flex items-center gap-3">
+              <span class="text-teal-400 text-sm font-medium">22 February 2026</span>
+              <span class="px-3 py-1 text-xs bg-amber-900 text-amber-300 rounded-full">Dreams • Future</span>
+            </div>
+          </div>
+          <div class="prose prose-invert max-w-none text-lg leading-relaxed mb-6">
+            <p class="italic">Clouds shaped like unfinished code floating above the city...</p>
+            <p>Third alias poem content goes here...</p>
+          </div>
+          <a href="#" class="inline-flex items-center gap-2 text-teal-400 hover:text-teal-300 font-medium">
+            Read full poem <i class="fa-solid fa-arrow-right text-sm"></i>
+          </a>
+        </div>
+
+      </div>
+    </div>
+  </div>
+
+  <!-- FOOTER -->
+  <footer class="bg-black py-12 border-t border-white/10">
+    <div class="max-w-7xl mx-auto px-6 text-center text-zinc-500 text-sm">
+      © 2026 Newton Mbazima • <a href="https://github.com/nmbazima" class="hover:text-white">GitHub</a> • Made with ❤️ in Lusaka
+    </div>
+  </footer>
+
+  <script>
+    function toggleMobileMenu() {
+      const menu = document.getElementById('mobileMenu');
+      menu.classList.toggle('hidden');
+    }
+  </script>
+</body>
+</html>
